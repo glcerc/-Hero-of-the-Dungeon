@@ -1,0 +1,13 @@
+Potato Sack,1,0,1,1
+Light tunic,3,3,1,2
+Heavy coat,4,3,1,3
+Linen Armor,5,2,1,3
+Jack,5,3,1,4
+Leather Pauldrons,7,5,2,5
+Jerkin,8,6,2,6
+Leather Chestplate,10,8,2,8
+Brigandine,11,8,2,9
+Aketon,15,10,3,10
+Ringmail,17,10,3,11
+Jazerant,18,11,3,11
+Haubergeon,19,12,3,12
